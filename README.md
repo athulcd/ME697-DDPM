@@ -4,11 +4,13 @@ This repository contains the python notebooks used for my course project for ME 
 
 There are two notebooks:
 
-1. DDPM on MNIST
+1. DDPM on MNIST (self contained)
 
-2. DDPM on ShipD dataset
+2. DDPM on ShipD dataset (needs dataset and helper notebooks for data pre-processing notebooks)
 
 Link to the Dataset: https://www.dropbox.com/sh/jg98r425v7ly89l/AAA49uMr7_mhaVmRDrPq0NU_a?dl=0
+Link to helper notebooks: https://github.com/noahbagz/ShipGen
+
  
 References Used
 ---
